@@ -1,0 +1,10 @@
+These are the required packages to run the analysis:
+
+readxl
+dplyr
+reshape2
+ggplot2
+bbplot
+scales
+magrittr
+rjson
